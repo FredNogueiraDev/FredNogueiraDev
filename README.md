@@ -1,7 +1,7 @@
 ## Hello World 
 ### Desenvolvedor apaixonado pelo mundo da tecnologia e sua capacidade de transformar negócios. 
 
-Desde 2022, tenho mergulhado no universo da programação, trazendo soluções inovadoras para nossos clientes por meio de tecnologias como JavaScript, C# e ASP.NET. Minha experiência se destaca principalmente na utilização avançada de SQL para otimização de bases de dados, garantindo desempenho e escalabilidade em nossos sistemas.
+Desde 2022, tenho mergulhado no universo da programação, trazendo soluções inovadoras por meio de tecnologias como JavaScript, TypeScript e Docker. 
 
 Tenho um forte interesse na área de front-end, buscando constantemente aprimorar minhas habilidades em interfaces de usuário intuitivas e visualmente atraentes. Acredito que a combinação entre funcionalidade e design é essencial para criar experiências digitais memoráveis.
 
